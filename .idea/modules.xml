@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/netty-file.iml" filepath="$PROJECT_DIR$/.idea/netty-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rrkd-file-client/rrkd-file-client.iml" filepath="$PROJECT_DIR$/rrkd-file-client/rrkd-file-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rrkd-file-server/rrkd-file-server.iml" filepath="$PROJECT_DIR$/rrkd-file-server/rrkd-file-server.iml" />
+    </modules>
+  </component>
+</project>
